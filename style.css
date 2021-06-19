@@ -1,0 +1,38 @@
+
+body{ margin:center;
+    text-align: center;
+    background-image: url("bestie.jpg");
+    background-repeat:repeat;
+    padding: 5px;
+    color:#34495e;
+    
+}
+nav{
+height: 80px;
+width: 100%;
+background: #34495e;
+}
+label.logo{
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+
+}
+nav ul{
+    float: right;
+    margin-right: 40px;
+    
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+
+}
+nav a{
+    color: white;
+    font-size: 18px;
+    border:  1px solid transparent;
+    padding: 7px 10px;
+    border-radius: 3px;
+}
